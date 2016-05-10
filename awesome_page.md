@@ -7,3 +7,5 @@
 ![alt text](phase-0-gps-1/GoogleHangouts.png)"Google hangouts picture"
 
 [This is our github repo](https://www.github.com/dylancoalwell/phase-0-gps1)
+
+## this is a conflict
