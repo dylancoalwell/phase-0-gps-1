@@ -8,4 +8,4 @@
 
 [This is our github repo](https://www.github.com/dylancoalwell/phase-0-gps1)
 
-## this is a conflict 2
+This is a change 2
